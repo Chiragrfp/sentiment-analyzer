@@ -1,6 +1,6 @@
 # 🎭 Sentiment Analyzer Web App
 
-A simple and elegant web app for performing **sentiment analysis** on movie reviews using **Natural Language Processing (NLP)** and **Multinomial Naive Bayes** classifier.
+A web app for movie review sentiment analysis using **Natural Language Processing (NLP)** and a **Multinomial Naive Bayes** classifier.
 
 ![Logo](static/logo.png)
 
