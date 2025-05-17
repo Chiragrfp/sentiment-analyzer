@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Sentiment Analyzer</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎬 Movie Sentiment Analyzer</h1>
+        <form id="sentiment-form">
+            <textarea id="review" placeholder="Enter your movie review here..." required></textarea>
+            <button type="submit">Analyze Sentiment</button>
+        </form>
+        <div id="result" class="hidden">
+            <h2>Sentiment: <span id="sentiment-text"></span></h2>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>
